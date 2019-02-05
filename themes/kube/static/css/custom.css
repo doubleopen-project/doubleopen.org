@@ -1,0 +1,91 @@
+#top {
+  height: 92px;
+}
+#top #top-brand span,
+#top #top-brand a {
+  line-height: 2.5em;
+}
+#top-brand a {
+  color: #000;
+  text-decoration: none;
+  font-family: "Fira Mono", monospace;
+  font-size: 1.25em;
+  font-weight: bold;
+}
+#top-brand a:hover {
+  text-decoration: none;
+}
+#top-brand a:hover #logo1 {
+  -moz-transition: all linear 0.2s;
+  transition: all linear 0.2s;
+  color: #888;
+}
+#top-brand a:hover #logo2 {
+  -moz-transition: all linear 0.2s;
+  transition: all linear 0.2s;
+  color: #ff88bb;
+}
+#logo2 {
+  color: #ff3366;
+}
+#top #top-nav-main a {
+  font-weight: normal;
+}
+#top #top-nav-main a:hover {
+  text-decoration: none;
+  color: #888;
+}
+#top #top-nav-main a.active {
+  font-weight: bold;
+}
+#nav-toggle-box {
+  background-color: #f6f6f6;
+  padding: 13px 16px 10px 16px;
+}
+#nav-toggle-brand a {
+  color: #000;
+  text-decoration: none;
+  font-family: "Fira Mono", monospace;
+  font-size: 16px;
+  font-weight: bold;
+}
+#nav-toggle-brand a:hover {
+  text-decoration: none;
+}
+#nav-toggle-brand a:hover #logo1 {
+  -moz-transition: all linear 0.2s;
+  transition: all linear 0.2s;
+  color: #888;
+}
+#nav-toggle-brand a:hover #logo2 {
+  -moz-transition: all linear 0.2s;
+  transition: all linear 0.2s;
+  color: #ff88bb;
+}
+#nav-toggle-brand #logo2 {
+  color: #ff3366;
+}
+#posts {
+  margin-top: 20px;
+  text-align: left;
+}
+#posts p {
+  text-align: justify;
+}
+#more h3,
+#more h4,
+#more p {
+  text-align: center;
+}
+.social-icon {
+  opacity: 0.3;
+}
+a.social-icon:hover {
+  -moz-transition: all linear 0.2s;
+  transition: all linear 0.2s;
+  opacity: 0.9;
+}
+#footer {
+  margin-top: 120px;
+  margin-bottom: 0;
+}

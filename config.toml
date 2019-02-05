@@ -1,0 +1,14 @@
+baseURL = "https://doubleopen.org/"
+languageCode = "en-us"
+title = "The Double Open Project"
+theme = "kube"
+description = ""
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "The Double Open Project" # add your company name
+  github = "" # add your github profile name
+  twitter = "" # add your twitter profile
+  email = ""
+
+
