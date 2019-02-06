@@ -1,4 +1,4 @@
-baseURL = "https://doubleopen.org/"
+baseURL = "https://www.doubleopen.org/"
 languageCode = "en-us"
 title = "The Double Open Project"
 theme = "kube"
