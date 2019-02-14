@@ -7,7 +7,7 @@ description = "Who we are and how to reach us"
 <h2 style="text-align: center">Project Team</h2>
 
 ### Project Owner
-Martin von Willebrand, Partner, HH Partner, Attorneys-at-law<br/>
+Martin von Willebrand, Partner, HH Partners, Attorneys-at-law<br/>
 <martin.vonwillebrand@hhpartners.fi>  
 
 ### Project Manager
