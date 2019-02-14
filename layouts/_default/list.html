@@ -4,13 +4,12 @@
 {{ define "main" }}
 
 <div id="hero" class="wrap">
-  <h1>Blog</h1>
-    <p>Lorem ipsum dolor sit amet.</p>
+  <h1>News</h1>
+    <p>Latest developments in the project</p>
 </div>
 <ul id="posts">
-
  {{ range .Paginator.Pages.ByWeight }} {{ partial "page-summary" . }} {{ end }}
-  <section>{{ partial "pagination" .}}</section>
+  <!--<section>{{ partial "pagination" .}}</section>-->
 </ul>
 
 {{ end }} 

@@ -3,18 +3,78 @@
 {{ define "main"}}
 
 <div id="main">
+
   <div id="hero">
     <h1>{{.Title}}</h1>
     <p>{{.Description}}</p>
   </div>
   <div id="action-buttons">
+    <a class="button primary big" href="/about">Learn more</a>
+    <a class="button outline big" title="Subscribe to mailing list" data-component="modal" data-target="#mailing-modal">Keep me posted</a>
+  </div>
 
-    <a class="button outline big" title="Subscribe to mailing list" href="https://mailchi.mp/f5cb726062b1/doubleopen">Keep me posted</a>
+  <div id="kube-features">
+    <div class="row gutters" style="border-bottom: none">
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Latest news" height="48" src="{{ "/images/activity.svg" | relURL }}" width="48">
+        </figure>
+        <h3>Latest news</h3>
+        {{ range first 2 .Pages }}
+          {{ if not .Date.IsZero }}
+          <p>
+            <i>{{ .Title }} &mdash; {{ dateFormat "2 Jan, 2006" .Date }}</i> // {{ .Params.description }}
+            {{ if .Truncated }}
+            <!-- This includes a read more link, but only if the summary is truncated... -->
+            (<a href="{{ .RelPermalink }}">Read More…</a>)
+            {{ end }}
+        </p>
+        {{ end }}
+      {{ end }}
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Publications" height="48" src="{{ "/images/file-text.svg" | relURL }}" width="48">
+        </figure>
+        <h3>Publications</h3>
+        <p>As we go along, the results of our research will be published in an open repository under an open 
+          license. Head over to our <a href="https://github.com/doubleopen-project/doubleopen-publications">GitHub repo</a> to take a peek. 
+        </p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="People" height="48" src="{{ "/images/team.svg" | relURL }}" width="48">
+        </figure>
+        <h3>People</h3>
+        <p>To reach our goal, we want to engage with the ecosystem at large. <a href="/people">Learn more</a> about the core team and the steering group.
+        </p>
+      </div>
+    </div>
+
   </div>
 </div>
+
 </div>
 
-
+<div id="mailing-modal" class="modal-box hide">
+    <div class="modal">
+        <span class="close"></span>
+        <div class="modal-body">
+          <h2>Join the mailing list</h2>
+          <p>Subscribe to our mailing list and we'll keep you updated about the Double Open project. You may unsubscribe at any time.</p>
+          <form name="contact" method="POST" data-netlify="true">
+              <p>
+                <label>Email: <input type="text" name="name" /></label>
+              </p>
+              <div data-netlify-recaptcha="true"></div>
+              <p>
+                <button type=”submit”>Subscribe</button>
+              </p>
+              <small><p><a href="/privacy" target="_blank">Privacy Notice</a></p></small>
+            </form>
+        </div>
+    </div>
+</div>
 
 {{ end }}
 {{ define "footer"}} {{ partial "footer" .}} {{end}}

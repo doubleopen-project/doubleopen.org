@@ -2,7 +2,7 @@ baseURL = "https://www.doubleopen.org/"
 languageCode = "en-us"
 title = "The Double Open Project"
 theme = "kube"
-description = ""
+description = "Double Open is a research project aiming to find out how to make open source compliance more open."
 Paginate = 4
 [Params]
   RSSLink = "/index.xml"
@@ -11,4 +11,20 @@ Paginate = 4
   twitter = "" # add your twitter profile
   email = ""
 
+[[menu.main]]
+    name = "About"
+    weight = -101
+    url = "/about"
+[[menu.main]]
+    name = "News"
+    weight = -100
+    url = "/news"
+[[menu.main]]
+    name = "Publications"
+    weight = -99
+    url = "https://github.com/doubleopen-project/doubleopen-publications"
+[[menu.main]]
+    name = "People & Contact"
+    weight = -98
+    url = "/people"
 
