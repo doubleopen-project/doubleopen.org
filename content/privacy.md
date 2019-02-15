@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Privacy Notice"
-description = "This notice explains how we use, share and retain the information you provide us through this website"
+description = "This notice explains how we use, share and retain the personal data you provide us through this website"
 +++
 
 <p style="text-align: center">Last updated: 15 Feb 2019</p>
@@ -22,7 +22,7 @@ The Double Open project is managed by, and the data controller for the data you 
 
 We will not share your contact details publically or disclose them to third parties without obtaining your separate consent.
 
-However, we may use third-party service providers to maintain and publish our website and manage our mailing list. In particular, we use [Netlify](https://www.netlify.com/) to provide us with form submission functionalities and hosting. This may require processing your personal data by Netlify and its sub-processors on servers located outside of the European Union and the European Economic Area, in which case such data transfers will be governed, where required, by the [Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010D0087&from=en) published by the European Commission and applied as part of the Data Processing Agreement between us and Netlify.
+However, we may use third-party service providers to maintain and publish our website and manage our mailing list. In particular, we use [Netlify](https://www.netlify.com/) to provide us with form submission functionalities and hosting. This may require transferring your personal data outside of the European Union and the European Economic Area to be processed by Netlify and its sub-processors for the purposes explained in this notice, in which case such data transfers will be governed, where required, by the [Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010D0087&from=en) published by the European Commission and applied as part of the Data Processing Agreement between us and Netlify.
 
 ### Retention of your information
 
@@ -30,7 +30,7 @@ Unless you decide to unsubscribe at an earlier stage, we will retain your inform
 
 ### Your rights
 
-You may revoke your consent and **unsubscribe** from our communications at any time either by using the unsubscribe functionality or contact details provided in the context of our communication to you, or by contacting us using the information provided in this notice. After you unsubscribe, we will cease processing your data.
+You may revoke your consent and **unsubscribe** from our communications at any time either by using the unsubscribe functionality or contact details provided in the context of our communications to you, or by contacting us using the information provided in this notice. After you unsubscribe, we will cease processing your data.
 
 If you wish to use your right(s) to **access, correct or update** your personal data, or if you have any other questions on our use of your information, please contact us as detailed below.
 
@@ -49,8 +49,4 @@ _Attorney-at-law, Partner_
 HH Partners, Attorneys-at-law Ltd  
 Bulevardi 7, 5th floor  
 P.O. Box 232, 00101 Helsinki, Finland  
-Tel: +358 9 177 613, Fax: +358 9 653 873  
-GSM: +358 40 770 1818  
-martin.vonwillebrand@hhpartners.fi  
-www.twitter.com/mvonwi  
-www.hhpartners.fi
+<martin.vonwillebrand@hhpartners.fi>

@@ -1,5 +1,5 @@
 +++
-date = "2019-02-14"
+date = "2019-02-15"
 title = "Project Kickoff"
 draft = false
 description = "Double Open to automate open source compliance with legal APIs"
