@@ -92,3 +92,6 @@ a.social-icon:hover {
     display: inline;
   }
 }
+#hero p {
+  max-width: 747px;
+}
