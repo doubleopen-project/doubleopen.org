@@ -95,3 +95,12 @@ a.social-icon:hover {
 #hero p {
   max-width: 747px;
 }
+mark.mark-front {
+  background: white;
+  color: #1c86f2;
+  font-size: unset;
+  top: unset;
+}
+.mark-front a {
+  text-decoration: none;
+}
