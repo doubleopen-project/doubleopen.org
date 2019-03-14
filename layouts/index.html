@@ -24,7 +24,7 @@
           <img alt="Latest news" height="48" src="{{ "/images/activity.svg" | relURL }}" width="48">
         </figure>
         <h3>Latest news</h3>
-        {{ range first 2 .Pages }}
+        {{ range first 3 .Pages }}
           {{ if not .Date.IsZero }}
           <p>
             <i>{{ .Title }} &mdash; {{ dateFormat "2 Jan, 2006" .Date }}</i> // {{ .Params.description }}
