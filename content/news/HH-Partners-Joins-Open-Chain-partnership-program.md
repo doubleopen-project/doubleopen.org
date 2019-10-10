@@ -14,7 +14,7 @@ The OpenChain Project establishes trust in the open source from which software s
 “The key to a successful community is to build great relationships,” says Shane Coughlan, OpenChain General Manager. “Establishing a formal relationship with HH Partners underlines our pre-existing and fruitful collaboration over many years. Martin and his team have long been a lynchpin of open source legal knowledge in North Europe, and their engagement today is a reflection of how the project and its associated industry standard is gaining momentum.”
 
 ### **About HH Partners**  
-HH Partners, Attorneys-at-law, Ltd, is a Helsinki, Finland based law firm focusing on Technology, Intellectual Property Rights and Transactions. Its Open Technology practice is likely the largest law firm practice on open technologies in Finland.
+HH Partners, Attorneys-at-law, Ltd, is a Helsinki, Finland based law firm focusing on Technology, Intellectual Property Rights and Transactions. Its Open Technology practice is likely the largest law firm practice on open technologies in Finland. More information can be found at https://www.hhpartners.fi/en/.
 
 ### **Learn more about the Double Open Project**  
 Double Open is research project of HH Partners, as a part of 4API project in collaboration with the University of Helsinki and several other companies. Double Open aims to enable open open source compliance automation, leveraging existing open tools and open data. The project is partially funded by Business Finland.  
