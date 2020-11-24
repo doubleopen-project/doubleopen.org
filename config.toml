@@ -24,7 +24,7 @@ Paginate = 4
     weight = -99
     url = "https://github.com/doubleopen-project/doubleopen-publications"
 [[menu.main]]
-    name = "People & Contact"
+    name = "People & Contacts"
     weight = -98
     url = "/people"
 

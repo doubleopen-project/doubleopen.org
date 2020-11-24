@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "People & Contact"
+title = "People & Contacts"
 description = "Who we are and how to reach us"
 +++
 
