@@ -4,7 +4,7 @@ title = "About"
 description = "Double-O-Compliance — license to fill the gaps!"
 +++
 
-**Started in December 2018 and looking to continue until June 2020**, Double Open is a project set up to find out how to make open source compliance more open. We approach this by leveraging existing tools and standards and looking at what is out there, identifying gaps and then making a proof of concept. Ideally, the proof of concept would demonstrate a full workflow for open source compliance based on open tooling and open data.
+**Started in December 2018**, Double Open is a project set up to find out how to make open source compliance more open. We approach this by leveraging existing tools and standards and looking at what is out there, identifying gaps and then making a proof of concept. Ideally, the proof of concept would demonstrate a full workflow for open source compliance based on open tooling and open data.
 
 **We do not aim to create brand new tools or standards.** What we are looking for is a better understanding of what a full, open and automated workflow for enterprises looks like. A large part of the project is to communicate with the ecosystem and be inclusive — an open ecosystem for open source compliance should be built together by many. For this purpose, we will survey the global ecosystem for existing tools and initiatives, and aim to identify a common big picture among many participants.
 
