@@ -13,12 +13,12 @@ Martin von Willebrand, _Partner_, HH Partners, Attorneys-at-law<br/>
 
 ### Project Manager
 
-Toni Päärni, _Associate Trainee_, HH Partners, Attorneys-at-law <br/>
+Toni Päärni, _Associate Lawyer_, HH Partners, Attorneys-at-law <br/>
 <toni.paarni@hhpartners.fi>
 
 ### Project Specialists
 
-Mikko Murto, _Developer, Associate Trainee_, HH Partners, Attorneys-at-law <br/>
+Mikko Murto, _Legal Technologist, Associate Lawyer_, HH Partners, Attorneys-at-law <br/>
 <mikko.murto@hhpartners.fi>
 
 Henri Tanskanen, _Attorney-at-law_, HH Partners, Attorneys-at-law <br/>
