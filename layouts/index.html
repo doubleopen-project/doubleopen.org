@@ -9,8 +9,8 @@
     <p>{{.Description}}</p>
   </div>
   <div id="action-buttons">
-    <a class="button primary big" href="/about">Learn more</a>
-    <a class="button outline big" title="Subscribe to mailing list" data-component="modal" data-target="#mailing-modal">Keep me posted</a>
+    <a class="button primary big" href="https://github.com/doubleopen-project">Go to GitHub &raquo;</a>
+    
   </div>
 
   <div id="kube-features">
@@ -37,8 +37,8 @@
           <img alt="Publication" height="48" src="{{ "/images/file-text.svg" | relURL }}" width="48">
         </figure>
         <h3>Publication</h3>
-        <p>As we go along, the results of our research will be published in an open repository under an open 
-          license. Head over to our <a href="https://github.com/doubleopen-project/doubleopen-publications/blob/master/publication.md#double-open-landscape-survey">GitHub repo</a> to take a peek. 
+        <p>As we go along, the results of our research will be published in open repositories under an open 
+          license. Head over to our <a href="https://github.com/doubleopen-project">GitHub repos</a> to take a peek. 
         </p>
       </div>
       <div class="col col-4 item">
@@ -56,28 +56,7 @@
 
 </div>
 
-<div id="mailing-modal" class="modal-box hide">
-    <div class="modal">
-        <span class="close"></span>
-        <div class="modal-body">
-          <h2>Join the mailing list</h2>
-          <p>Subscribe to our mailing list and we'll keep you updated about the Double Open project. You may unsubscribe at any time.</p>
-          <form name="contact" method="POST" data-netlify="true" action="/success">
-              <p>
-                <label>Email: <input type="text" name="name" /></label>
-              </p>
-              <p>
-                  <label>Message (optional): <textarea name="message"></textarea></label>
-                </p>
-              <div data-netlify-recaptcha="true"></div>
-              <p>
-                <button type=”submit”>Subscribe</button>
-              </p>
-              <small><p><a href="/privacy" target="_blank">Privacy Notice</a></p></small>
-            </form>
-        </div>
-    </div>
-</div>
+
 
 {{ end }}
 {{ define "footer"}} {{ partial "footer" .}} {{end}}
