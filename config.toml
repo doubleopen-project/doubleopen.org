@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "The Double Open Project"
 theme = "kube"
 description = "Double Open is a research project aiming to find out how to make open source compliance more open."
-Paginate = 4
+# Paginate = 5
 [Params]
   RSSLink = "/index.xml"
   author = "The Double Open Project" # add your company name
