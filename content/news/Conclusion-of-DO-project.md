@@ -1,6 +1,6 @@
 +++ 
 date = "2022-04-25T10:17:00+03:00" 
-title = "Conclusion of the Double Open project" 
+title = "Conclusion of the Double Open Project" 
 draft = false 
 description = "The Double Open project officially concluded in June 2021" 
 +++
