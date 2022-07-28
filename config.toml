@@ -20,11 +20,15 @@ description = "Double Open is a research project aiming to find out how to make 
     weight = -100
     url = "/news"
 [[menu.main]]
-    name = "Publications"
+    name = "Case Studies"
     weight = -99
+    url = "/case-studies"
+[[menu.main]]
+    name = "Publications"
+    weight = -98
     url = "https://github.com/doubleopen-project/doubleopen-publications"
 [[menu.main]]
     name = "People & Contacts"
-    weight = -98
+    weight = -97
     url = "/people"
 
