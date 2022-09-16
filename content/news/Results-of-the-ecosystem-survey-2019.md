@@ -9,6 +9,6 @@ Double Open has published the survey results for the Short Ecosystem Survey 2019
 
 Results show that the FOSS tools that received high amounts of mentions from the whole ecosystem are Fossology, ScanCode and SPDX toolkit. These have existed for a long time and have established themselves as primary tools in OSS compliance. Besides, the tools have had the possibility to improve over time to better serve the people and organizations who use them. Also, OSS Review Toolkit (ORT) got several replies even though it has not officially been published. ORT is one of the most automated compliance tools at the moment and will be interesting for the Double Open project.
 
-To review the results of the survey yourself head to the <a href="https://github.com/doubleopen-project/doubleopen-publications/tree/master/Ecosystem-Survey-2019">Ecosystem Survey 2019</a>.
+To review the results of the survey yourself head to the [Ecosystem Survey 2019](https://github.com/doubleopen-project/doubleopen-publications/tree/master/Ecosystem-Survey-2019).
 
-With the conclusion of the survey also the new version of the living report of Double Open, the <a href="https://github.com/doubleopen-project/doubleopen-publications/blob/master/publication.md">publication.md</a> has been updated. It includes a short summary of the survey and the Voice-of-Customer workshops carried out by the Double Open project. 
+With the conclusion of the survey also the new version of the living report of Double Open, the [publication.md](https://github.com/doubleopen-project/doubleopen-publications/blob/master/publication.md) has been updated. It includes a short summary of the survey and the Voice-of-Customer workshops carried out by the Double Open project. 
