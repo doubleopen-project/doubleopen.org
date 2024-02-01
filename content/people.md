@@ -4,34 +4,30 @@ title = "People & Contacts"
 description = "Who we are and how to reach us"
 +++
 
-<h2 style="text-align: center">Project Team</h2>
+<h2 style="text-align: center">Team</h2>
 
-### Project Owner
+### Sebastian Schuberth, CEO & CTO
 
-Martin von Willebrand, _Partner_, HH Partners, Attorneys-at-law<br/>
-<martin.vonwillebrand@hhpartners.fi>
+<mailto:sebastian@doubleopen.org>
 
-### Project Manager
+### Martin von Willebrand, Strategy, Finances
 
-Toni Päärni, _Associate Lawyer_, HH Partners, Attorneys-at-law <br/>
-<toni.paarni@hhpartners.fi>
+<mailto:martin.vonwillebrand@doubleopen.org>
 
-### Project Specialists
+### Jyrki Keisala, Developer
 
-Mikko Murto, _Legal Technologist, Associate Lawyer_, HH Partners, Attorneys-at-law <br/>
-<mikko.murto@hhpartners.fi>
+<mailto:jyrki.keisala@douleopen.org>
 
-Henri Tanskanen, _Attorney-at-law_, HH Partners, Attorneys-at-law <br/>
-<henri.tanskanen@hhpartners.fi>
+### Johanna Lamppu, Developer
 
-### Consultant
+<mailto:johanna.lamppu@doubleopen.org>
 
-Jyrki Koskinen, Avaamo Konsultointi
+### Mikko Murto, Advisor (legal, development)
 
-<h2 style="text-align: center">Steering Group</h2>
+<mailto:mikko.murto@doubleopen.org>
 
-Martin von Willebrand, _Chair, Project Owner_  
-Marko Jaanu, _Open Source Officer_, Fujitsu Finland Oy (nominated by Validos ry)  
-Jyrki Koskinen, _Consultant_, Avaamo Konsultointi  
-Markku Korvenmaa, _Managing Director_, HH Partners, Attorneys-at-law  
-Toni Päärni, _Project Manager_
+### Toni Päärni, Advisor (legal, clearance)
+
+<mailto:toni.paarni@doubleopen.org>
+
+### Marko Jaanu, Advisor (OS compliance projects)
