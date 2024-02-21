@@ -4,7 +4,7 @@ title = "About"
 description = "Double Open - Open Source component analysis with Open Source tools"
 +++
 
-**Double Open as a company does aims to provide a full, open and automated compliance workflow for enterprises.** A large part of our activity is to communicate with the ecosystem and be inclusive — an open ecosystem for Open Source component analysis should be built together by many. Instead of new tools we are focused in **filling the gaps between existing tools and standards and offering a solution based on a common big picture** among many participants.
+**Double Open as a company aims to provide a full, open and automated compliance workflow for enterprises.** A large part of our activity is to communicate with the ecosystem and be inclusive — an open ecosystem for Open Source component analysis should be built together by many. Instead of new tools we are focused in **filling the gaps between existing tools and standards and offering a solution based on a common big picture** among many participants.
 
 Double Open was originally run as a research project by **HH Partners, Attorneys-at-law**, together with collaborators in the ecosystem, including Validos ry, a Finnish association offering Open Source compliance services to its members since 2008. HH Partners decided in 2023 to spin-off the Double Open project to Double Open Oy, who is now running an SCA business based on the project. HH Partners remains a partner of Double Open.
 
