@@ -10,7 +10,7 @@ description = "The Double Open project officially concluded in June 2021"
 - Creation of a new [meta-layer for Yocto](https://github.com/doubleopen-project/meta-doubleopen) for the creation of SPDX files. The creation of SPDX files is now being developed in Open Embedded and available to all Yocto users in future versions of Yocto.
 - Fossology implemented API functionality based on Double Open needs.
 - Double Open is using the [OSS Review Toolkit (ORT)](https://github.com/doubleopen-project/ort) Evaluator and Reporter at the end of the pipeline.
-- Acting as an interoperable bridge between different open source projects for creating an end-to-end automated compliance pipeline.
+- Acting as an interoperable bridge between different Open Source projects for creating an end-to-end automated compliance pipeline.
 
 ### **Achieving project objectives**
 

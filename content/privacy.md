@@ -4,11 +4,11 @@ title = "Privacy Notice"
 description = "This notice explains how we use, share and retain the personal data you provide us through this website"
 +++
 
-<p style="text-align: center">Last updated: 15 Feb 2019</p>
+<p style="text-align: center">Last updated: 12 February 2024</p>
 
 ### Data controller
 
-The Double Open project is managed by, and the data controller for the data you share with us is, [HH Partners, Attorneys-at-law Ltd](https://hhpartners.fi/en/), Helsinki, Finland.
+The data controller for the data you share with us is, [Double Open Oy](https://doubleopen.org/), Helsinki, Finland.
 
 ### The information we collect
 
@@ -16,7 +16,7 @@ The Double Open project is managed by, and the data controller for the data you 
 
 ### How we use your information
 
-**Communicating with you and managing our mailing list**: Based on your consent, we use the details you provide to keep you updated about the Double Open project. In the future, we may want to build a more public discussion platform based on the mailing list. In such event we will inform you about our plans separately and update this notice accordingly. You will always have the possibility to unsubscribe from our mailing list.
+**Communicating with you and managing our mailing list**: Based on your consent, we use the details you provide to keep you updated about our activities. You will always have the possibility to unsubscribe from our mailing list.
 
 ### How we share your information
 
@@ -42,11 +42,8 @@ Changes to this notice will be made when required due to changes in our activiti
 
 ### Contact information
 
-##### Project Owner
+##### CFO
 
-**Martin von Willebrand**  
-_Attorney-at-law, Partner_  
-HH Partners, Attorneys-at-law Ltd  
-Bulevardi 7, 5th floor  
-P.O. Box 232, 00101 Helsinki, Finland  
-<martin.vonwillebrand@hhpartners.fi>
+**Martin von Willebrand**
+Founder, Strategy and Finances
+<martin.vonwillebrand@doubleopen.org>

@@ -1,13 +1,11 @@
 +++
 draft = false
 title = "About"
-description = "Double-O-Compliance — license to fill the gaps!"
+description = "Double Open - Open Source component analysis with Open Source tools"
 +++
 
-**Started in December 2018**, Double Open is a project set up to find out how to make open source compliance more open. We approach this by leveraging existing tools and standards and looking at what is out there, identifying gaps and then making a proof of concept. Ideally, the proof of concept would demonstrate a full workflow for open source compliance based on open tooling and open data.
+**Double Open as a company does aims to provide a full, open and automated compliance workflow for enterprises.** A large part of our activity is to communicate with the ecosystem and be inclusive — an open ecosystem for Open Source component analysis should be built together by many. Instead of new tools we are focused in **filling the gaps between existing tools and standards and offering a solution based on a common big picture** among many participants.
 
-**We do not aim to create brand new tools or standards.** What we are looking for is a better understanding of what a full, open and automated workflow for enterprises looks like. A large part of the project is to communicate with the ecosystem and be inclusive — an open ecosystem for open source compliance should be built together by many. For this purpose, we will survey the global ecosystem for existing tools and initiatives, and aim to identify a common big picture among many participants.
+Double Open was originally run as a research project by **HH Partners, Attorneys-at-law**, together with collaborators in the ecosystem, including Validos ry, a Finnish association offering Open Source compliance services to its members since 2008. HH Partners decided in 2023 to spin-off the Double Open project to Double Open Oy, who is now running an SCA business based on the project. HH Partners remains a partner of Double Open.
 
-**We are a research project**, and as such, do not seek to sell anything or turn a profit. As part of the project, we will research possible business models for different actors in an open ecosystem for open compliance. Implementing business models, however, is not a part of the project.
-
-The project is run by **HH Partners, Attorneys-at-law**, together with collaborators in the ecosystem. The initial collaboration partner is Validos ry, a Finnish association offering open source compliance services to its members since 2008. HH Partners is a Helsinki-based law firm that has worked regularly in open source compliance since 2006, to a large extent as assigned by Validos ry, but also in other contexts.
+**Started in December 2018**, Double Open started as a project set up to find out how to make Open Source compliance more open. We approach this by leveraging existing tools and standards and looking at what is out there, identifying gaps and then making a proof of concept. Realised proofs of concept demonstrated full workflows for Open Source compliance based on open tooling and open data. However, proof of concepts were then not ready for scaling. Which is why we needed Double Open Oy to take the next step and build on the opportunity showed by research.

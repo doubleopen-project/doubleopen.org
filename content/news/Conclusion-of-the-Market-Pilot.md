@@ -7,7 +7,7 @@ description = "Double Open's market pilot concluded"
 
 Double Open’s market pilot was concluded in early 2023 with the following key findings
 
-- The proposed approach solves real client problems and helps significantly in open source software
+- The proposed approach solves real client problems and helps significantly in Open Source software
 compliance. Pilot customers issued positive references.
 - There is demand for continued use and expansion of the solution.
 - The current approach is not technically scalable and a scalable offering is needed for further
