@@ -8,7 +8,7 @@ description = "Who we are and how to reach us"
 
 ### Sebastian Schuberth, CEO & CTO
 
-<mailto:sebastian@doubleopen.org>
+<mailto:sebastian.schuberth@doubleopen.org>
 
 ### Martin von Willebrand, Strategy, Finances
 
