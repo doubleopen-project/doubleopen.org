@@ -24,10 +24,6 @@ description = "Double Open is a company offering Open Source compliance solution
     weight = -99
     url = "/case-studies"
 [[menu.main]]
-    name = "Publications"
-    weight = -98
-    url = "https://github.com/doubleopen-project/doubleopen-publications"
-[[menu.main]]
     name = "People & Contacts"
     weight = -97
     url = "/people"
