@@ -42,8 +42,6 @@ Changes to this notice will be made when required due to changes in our activiti
 
 ### Contact information
 
-#### Martin von Willebrand
-
-Founder, Strategy and Finances
+**Martin von Willebrand**, Founder, Strategy and Finances
 
 <martin.vonwillebrand@doubleopen.org>
