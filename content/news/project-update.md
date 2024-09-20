@@ -1,6 +1,6 @@
 +++
 date = "2019-03-14T01:01:00+02:00"
-title = "Project Update"
+title = "Project update"
 draft = false
 description = "What's going on currently"
 +++
