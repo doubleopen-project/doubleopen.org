@@ -1,32 +1,32 @@
 +++
 draft = false
-title = "Privacy Notice"
+title = "Privacy notice"
 description = "This notice explains how we use, share and retain the personal data you provide us through this website"
 +++
 
-<p style="text-align: center">Last updated: 12 February 2024</p>
+<p style="text-align: center">Last updated: 20 Sep 2024</p>
 
-### Data controller
+### Controller
 
-The data controller for the data you share with us is, [Double Open Oy](https://doubleopen.org/), Helsinki, Finland.
+The controller for the data you share with us is [Double Open Oy](https://doubleopen.org/), Helsinki, Finland.
 
 ### The information we collect
 
-**Contact information**: When you subscribe to our mailing list, we ask for you to provide your email address and other optional information as detailed on the subscription form.
+**Contact information**: When you sign up to learn more about Double Open, we ask you to provide your email address and other optional information as detailed on the sign-up form.
 
 ### How we use your information
 
-**Communicating with you and managing our mailing list**: Based on your consent, we use the details you provide to keep you updated about our activities. You will always have the possibility to unsubscribe from our mailing list.
+**Communicating with you**: Based on your consent, we use the details you provide to keep you updated about our activities. You will always have the possibility to unsubscribe from our communications.
 
 ### How we share your information
 
-We will not share your contact details publically or disclose them to third parties without obtaining your separate consent.
+We will not share your personal data publically or disclose it to third parties without obtaining your separate consent.
 
-However, we may use third-party service providers to maintain and publish our website and manage our mailing list. In particular, we use [Netlify](https://www.netlify.com/) to provide us with form submission functionalities and hosting. This may require transferring your personal data outside of the European Union and the European Economic Area to be processed by Netlify and its sub-processors for the purposes explained in this notice, in which case such data transfers will be governed, where required, by the [Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010D0087&from=en) published by the European Commission and applied as part of the Data Processing Agreement between us and Netlify.
+However, we may use third-party service providers to maintain and publish our website and manage our email communications. In particular, we use [Netlify](https://www.netlify.com/) to host this website, and [Google Forms](https://www.google.com/forms/about/) to collect your contact information when you sign up to learn more about Double Open.
 
 ### Retention of your information
 
-Unless you decide to unsubscribe at an earlier stage, we will retain your information for as long as necessary in order for us to keep you informed about the Double Open project and its results.
+Unless you decide yourself to unsubscribe from our communications at any time, we will retain your information for as long as necessary in order for us to keep you informed about Double Open.
 
 ### Your rights
 
@@ -42,8 +42,8 @@ Changes to this notice will be made when required due to changes in our activiti
 
 ### Contact information
 
-##### CFO
+#### Martin von Willebrand
 
-**Martin von Willebrand**
 Founder, Strategy and Finances
+
 <martin.vonwillebrand@doubleopen.org>
