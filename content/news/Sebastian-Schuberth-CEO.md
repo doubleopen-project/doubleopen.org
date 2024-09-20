@@ -2,7 +2,7 @@
 date = "2023-11-01T10:17:00+03:00"
 title = "Sebastian Schuberth nominated as CEO"
 draft = false 
-description = "Sebastian Schuberth has been nominated the CEO of Double Open Oy" 
+description = "Sebastian Schuberth has been nominated as the CEO of Double Open Oy" 
 +++
 
 We're proud to announce that our co-founder Sebastian Schuberth has been nominated as full-time CEO
