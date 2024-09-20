@@ -19,7 +19,7 @@ Strategy, Finances
 ### Jyrki Keisala
 Developer
 
-<mailto:jyrki.keisala@douleopen.org>
+<mailto:jyrki.keisala@doubleopen.org>
 
 ### Johanna Lamppu
 Developer
