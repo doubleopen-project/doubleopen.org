@@ -1,5 +1,5 @@
 +++
-description = "Double Open is piloting software composition analysis, or SCA, as a service, powered by OSS Review Toolkit (ORT). We aim to solve the issue where tools and data are stuck in-house or behind proprietary licenses. Interested on more information or a pilot? Please provide your information below."
+description = "Double Open is piloting software composition analysis (SCA) as a service, powered by OSS Review Toolkit (ORT). We aim to solve the issue of tools and data stuck in-house or behind proprietary licenses. Want to know more, or interested in a pilot? Sign up below!"
 title = "Open Solutions for Open Source Compliance"
 draft = false
 +++
