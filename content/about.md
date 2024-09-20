@@ -4,7 +4,7 @@ title = "About"
 description = "Double Open – open source compliance with open source tools"
 +++
 
-**Double Open aims to provide enterprises with a complete, open and automated workflow for open source compliance.** We believe that an open ecosystem for open source component analysis should be built together. That's why engaging the ecosystem in an inclusive way is at the heart of what we do. Rather than reinventing the wheel, we focus on **filling the gaps between existing tools and standards, and providing a solution based on a common big picture**.
+**Double Open aims to provide enterprises with a complete, open and automated workflow for open source compliance.** We believe that an open ecosystem for open source component analysis should be built together. That's why engaging the ecosystem in an inclusive way is at the heart of what we do. Rather than reinventing the wheel, we focus on filling the gaps between existing tools and standards, and providing a solution based on a common big picture.
 
 **Launched as a research project in 2018**, Double Open was tasked with finding out how to make open source compliance more open. We approached the question by leveraging existing tools and standards, looking at what was out there, identifying gaps, and then building a proof of concept. The project was run by **HH Partners, Attorneys-at-law**, together with collaborators in the ecosystem, including Validos ry, a Finnish association that has been providing open source compliance services to its members since 2008. 
 
