@@ -1,0 +1,6 @@
+# This rule redirects all traffic to the new domain.
+[[redirects]]
+  from = "/*"
+  to = "https://doubleopen.io/"
+  status = 301
+  force = true
